@@ -44,5 +44,5 @@ for filename in os.listdir(cwd):
         print(f"Processed and saved: {denoised_filename}")
 ```
 
-## exe下载
+## exe Download
 https://drive.google.com/file/d/1jZl2B_uzB6ljZrCUzGTMk-pW9fowaib2/view?usp=sharing
