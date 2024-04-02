@@ -43,6 +43,3 @@ for filename in os.listdir(cwd):
         cv2.imwrite(denoised_filename, dst)
         print(f"Processed and saved: {denoised_filename}")
 ```
-
-## exe下载
-https://drive.google.com/file/d/1jZl2B_uzB6ljZrCUzGTMk-pW9fowaib2/view?usp=sharing
